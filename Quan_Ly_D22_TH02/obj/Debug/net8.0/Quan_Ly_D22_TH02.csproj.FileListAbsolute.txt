@@ -1,0 +1,14 @@
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\bin\Debug\net8.0\Quan_Ly_D22_TH02.exe
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\bin\Debug\net8.0\Quan_Ly_D22_TH02.deps.json
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\bin\Debug\net8.0\Quan_Ly_D22_TH02.runtimeconfig.json
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\bin\Debug\net8.0\Quan_Ly_D22_TH02.dll
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\bin\Debug\net8.0\Quan_Ly_D22_TH02.pdb
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\obj\Debug\net8.0\Quan_Ly_D22_TH02.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\obj\Debug\net8.0\Quan_Ly_D22_TH02.AssemblyInfoInputs.cache
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\obj\Debug\net8.0\Quan_Ly_D22_TH02.AssemblyInfo.cs
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\obj\Debug\net8.0\Quan_Ly_D22_TH02.csproj.CoreCompileInputs.cache
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\obj\Debug\net8.0\Quan_Ly_D22_TH02.dll
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\obj\Debug\net8.0\refint\Quan_Ly_D22_TH02.dll
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\obj\Debug\net8.0\Quan_Ly_D22_TH02.pdb
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\obj\Debug\net8.0\Quan_Ly_D22_TH02.genruntimeconfig.cache
+D:\OOP C_Sharp\Các project quản lý\Quan_Ly_D22_TH02\Quan_Ly_D22_TH02\obj\Debug\net8.0\ref\Quan_Ly_D22_TH02.dll
